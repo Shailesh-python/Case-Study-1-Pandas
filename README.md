@@ -1,7 +1,7 @@
 # Case Study #1 Danny's Diner
 
-The following are my solutions to the Case Study 1 Danny's Diner questions  
-[Danny Ma's Serious SQL course](https://www.datawithdanny.com/ "Data With Danny") using Pandas.
+The following are my solutions to the Case Study 1 Danny's Diner questions using pandas in
+[Danny Ma's Serious SQL course](https://www.datawithdanny.com/ "Data With Danny")
 <br/>
 <br/>
 Danny has shared with you 3 key datasets for this case study :
