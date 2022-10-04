@@ -1,7 +1,7 @@
 # Case Study #1 Danny's Diner
 
-The following are my solutions to the Case Study 1 Danny's Diner questions in 
-[Danny Ma's Serious SQL course](https://www.datawithdanny.com/ "Data With Danny")
+The following are my solutions to the Case Study 1 Danny's Diner questions  
+[Danny Ma's Serious SQL course](https://www.datawithdanny.com/ "Data With Danny") using Pandas.
 <br/>
 <br/>
 Danny has shared with you 3 key datasets for this case study :
@@ -40,3 +40,6 @@ df_menu = pd.read_sql_query('select * from dannys_diner.menu',conn)
 
 conn.close()
 ```
+
+
+[Check my solution](https://github.com/Shailesh-python/Case-Study-1-Pandas/blob/main/Case%20Study%201%20Solutions.ipynb)
